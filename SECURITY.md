@@ -8,7 +8,7 @@ Do not:
 - test against production systems without written permission
 - submit real secrets, credentials, private evidence or personal data through
   public channels
-- attempt to bypass rate limits, authentication, review workflows or evidence
+- attempt to bypass rate limits, authentication, access or evidence
   controls
 - scrape, enumerate or reconstruct private datasets from public material
 

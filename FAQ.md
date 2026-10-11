@@ -12,14 +12,18 @@ private operational notes are deliberately excluded.
 
 ## Is reporting anonymous?
 
-Public language should say pseudonymous or review-gated unless a signed legal
-policy says otherwise. The private product includes abuse-prevention and review
-mechanisms that can involve fingerprints, sender metadata or account context.
+The product supports anonymous and pseudonymous reporting. The app stores
+no IP addresses or raw device data about anonymous tipsters; case tokens and
+normal operational minimum remain. Providers' short security logs are
+minimized. Unsubstantiated claims are labelled and never count as evidence.
+(FD-012, FD-120, FD-199)
 
 ## Is there a public API?
 
-The product includes a scoped API surface with keys, scopes and rate limits.
-Premium, partner or bulk access is a separate review path.
+Anyone can register a free key directly for public data, with fair rate
+limits. Paid premium access activates automatically after payment. Connected
+functionality is shown separately in the product status view.
+(FD-098, FD-172, FD-109)
 
 ## Are there benchmarks?
 
